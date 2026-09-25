@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-delawareco",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Delaware County GIS — Delaware County, Indiana open geospatial data (ArcGIS).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-bb1eb1e1db1e8cbe52fd56acd4bb2a82eb4bdf5ea55d00ef3088164db1c7908b",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-8673f036e0049356b5f2bfda68eb2d0c36dab5d5bf53eb70355220399bff30c3",
+    "sourceCommit": "dca20ba6e13a9aa1c9f2918fc2ddaffe4cc30e5c"
   }
 }
